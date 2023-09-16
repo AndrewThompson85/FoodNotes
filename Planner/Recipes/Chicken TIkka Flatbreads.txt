@@ -1,4 +1,4 @@
-Pitta Breads
+Persian Flatbreads
 Chicken Breast
 Tandoori Masala
 Yoghurt
@@ -6,3 +6,5 @@ Red Onions
 Lettuce
 Chilli Peppers
 Salad Tomatoes
+Chilli Sauce
+Mayonnaise

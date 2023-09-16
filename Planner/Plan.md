@@ -1,0 +1,46 @@
+# MEAL PLAN - Plan
+### Recipes
+- GREGGS PIES
+- TOMATO GNOCCHI
+- ICELAND CURRY
+- CHICKEN TIKKA FLATBREADS
+- FISH AND CHIPS
+- DUCK RICE BOWL
+
+### Shopping List
+- [ ] Greggs Frozen Chicken Pies
+- [ ] Frozen Chips
+- [ ] Gravy Mix
+- [ ] Salt
+- [ ] Vinegar
+- [ ] Gnocci
+- [ ] A Loyd Grossman Sauce
+- [ ] Frozen Chicken Tikka Masala
+- [ ] Basmati Rice
+- [ ] Lime Pickle
+- [ ] Little Poppadoms
+- [ ] Frozen Paratha
+- [ ] Persian Flatbreads
+- [ ] Chicken Breast
+- [ ] Tandoori Masala
+- [ ] Yoghurt
+- [ ] Red Onions
+- [ ] Lettuce
+- [ ] Chilli Peppers
+- [ ] Salad Tomatoes
+- [ ] Chilli Sauce
+- [ ] Mayonnaise
+- [ ] Fish and Chips from Markies
+- [ ] Chips from Markies
+- [ ] Chocolate Pudding from Markies
+- [ ] Salt
+- [ ] Vinegar
+- [ ] Duck Breasts (Skin on)
+- [ ] Szechuan Chilli Flakes
+- [ ] Vegetable Oil
+- [ ] Sweet Hoisin Sauce
+- [ ] Jasmine Rice
+- [ ] Chinese 5 Spice
+- [ ] Salt
+- [ ] Spring Onions
+- [ ] Light Soy Sauce

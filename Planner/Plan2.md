@@ -1,0 +1,78 @@
+# MEAL PLAN - Plan2
+### Recipes
+- GREGGS PIES
+- TOMATO GNOCCHI
+- ICELAND CURRY
+- CHICKEN TIKKA FLATBREADS
+- STEAK AND EGGS
+- CHEESEBURGERS
+- FISH AND CHIPS
+- FULL ENGLISH BREAKFAST
+- SCRAMBLED EGGS
+
+### Shopping List
+- [ ] Greggs Frozen Chicken Pies
+- [ ] Frozen Chips
+- [ ] Gravy Mix
+- [ ] Salt
+- [ ] Vinegar
+- [ ] Gnocci
+- [ ] A Loyd Grossman Sauce
+- [ ] Frozen Chicken Tikka Masala
+- [ ] Basmati Rice
+- [ ] Lime Pickle
+- [ ] Little Poppadoms
+- [ ] Frozen Paratha
+- [ ] Persian Flatbreads
+- [ ] Chicken Breast
+- [ ] Tandoori Masala
+- [ ] Yoghurt
+- [ ] Red Onions
+- [ ] Lettuce
+- [ ] Chilli Peppers
+- [ ] Salad Tomatoes
+- [ ] Chilli Sauce
+- [ ] Mayonnaise
+- [ ] Steak
+- [ ] Eggs
+- [ ] Mustard
+- [ ] Hash Browns
+- [ ] Oil
+- [ ] Salt
+- [ ] Pepper
+- [ ] Butter
+- [ ] Garlic
+- [ ] Sharp Cheese Slice
+- [ ] Onions
+- [ ] Ketchup
+- [ ] Mustard
+- [ ] Burger Pickles
+- [ ] Burger Patties
+- [ ] Oil
+- [ ] Salt
+- [ ] Pepper
+- [ ] Lettuce
+- [ ] Burger Buttons
+- [ ] Fish and Chips from Markies
+- [ ] Chips from Markies
+- [ ] Chocolate Pudding from Markies
+- [ ] Salt
+- [ ] Vinegar
+- [ ] Bacon
+- [ ] Sausages
+- [ ] Hash Browns
+- [ ] Baked Beans
+- [ ] Mushrooms
+- [ ] Brown Sauce
+- [ ] English Mustard
+- [ ] Salt
+- [ ] Oil
+- [ ] Eggs
+- [ ] Bread
+- [ ] Salted Butter
+- [ ] Black Pudding
+- [ ] Eggs
+- [ ] Salt
+- [ ] Butter
+- [ ] Pepper
+- [ ] Shredded Sharp Cheddar 
