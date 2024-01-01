@@ -2,9 +2,12 @@
 
 ### Ingredients
 
-2 Duck Legs
-Salt
-Chinese Five Spice
+| Ingredient | Amount   | Percent |
+|---|---|--|
+| Duck Legs  | 450g (2)  | 100% |
+| Salt  | 18g | 4% | 
+| Chinese 5 Spice | 1.8g | 0.4% |
+
 
 ### Method
 
