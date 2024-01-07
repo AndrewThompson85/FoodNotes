@@ -4,7 +4,7 @@
 
 ### Ingredients
 
-Chicken Breasts
+2 Chicken Breasts
 Onion
 6 Garlic cloves
 5g Thyme
@@ -20,7 +20,6 @@ Black Pepper
 125ml White Wine
 30g Dijon Mustard
 20g Wholegrain Mustard
-250ml whipping/double cream
 
 ### Method
 
